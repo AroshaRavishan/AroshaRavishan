@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arosha Ravishan</h1>
-<h3 align="center">A Interested in frontend developer</h3>
+<h3 align="center">A Interested in Frontend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arosharavishan&label=Profile%20views&color=0e75b6&style=flat" alt="arosharavishan" /> </p>
 

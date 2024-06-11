@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arosha ravishan" target="blank">
+  <a href="https://linkedin.com/in/arosha ravishan](https://www.linkedin.com/in/arosha-ravishan-89b459247" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arosha ravishan" height="30" width="40" />
   </a>
   <a href="https://fb.com/arosha ravishan" target="blank">
